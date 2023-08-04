@@ -17,4 +17,5 @@ I'm currently learning also backend stuff (Express.js).
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Most used languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasKukumberg&langs_count=8&theme=gotham)](https://github.com/TomasKukumberg/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasKukumberg&langs_count=8&theme=default)](https://github.com/TomasKukumberg/github-readme-stats#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasKukumberg&langs_count=8&theme=gotham)](https://github.com/TomasKukumberg/github-readme-stats#gh-dark-mode-only)
