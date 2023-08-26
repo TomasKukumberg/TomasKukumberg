@@ -1,7 +1,6 @@
 # Hi there, I'm Tomáš 👋👨‍💻
 
-![Header](./header.png#gh-light-mode-only)
-![Dark header](./header-dark.png#gh-dark-mode-only)
+![Header](./header.png)
 
 I'm a software engineer that specializes in front-end. JS frameworks like React, Vue and Svelte are technologies i'm most interested in. 
 
